@@ -21,7 +21,7 @@ TCM currently implements Test Harness for automation installation, sanity checki
 
 ## Log
 
-![log](https://github.com/joechiu/tcm/blob/master/1522726613413.jpg){ width:300px; }
+![log](https://github.com/joechiu/tcm/blob/master/1522726613413.jpg){: height="200px" width="300px" }
 
 ## Contributors
 
