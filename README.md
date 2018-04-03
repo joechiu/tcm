@@ -8,8 +8,8 @@ The main language is Perl for Sun UNIX and SQL for Oracle 9.x.
 
 ## Installation
 
-#### 1. Run the sql script in the install directory which will create the tables required by TCM.
-#### 2. Run the configure.pl in the install directory to deploy and generate the installation report.
+1. Run the sql script in the install directory which will create the tables required by TCM.
+2. Run the configure.pl in the install directory to deploy and generate the installation report.
 
 ## Configuration
 
