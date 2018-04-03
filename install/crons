@@ -1,0 +1,2 @@
+* * * * * perl /your/project/path/tcm/scripts/ms-alert.pl > /dev/null
+* * * * * perl /your/project/path/tcm/scripts/ms-trans.pl > /dev/null
