@@ -1,6 +1,6 @@
 # Task Control and Management
 
-TCM is a automation process to control and manage the file tasks and store the processing info to the database for the further usages including reports, alerts and notifications.
+TCM is an automation tool to control and manage the file tasks and store the processing info to the database for the further usages including reports, alerts and notifications.
 
 ## Code
 
